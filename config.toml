@@ -1,10 +1,8 @@
-baseURL = "http://letsdodatascience.github.io/"
+baseURL = "https://letsdodatascience.github.io/"
 languageCode = "en-us"
 title = "Vineet Kumar Singh"
 theme="pristine"
 
-canonifyURLs = true
-enableEmoji = true
 
 [params]
     portrait = "img/potrait.jpeg"
