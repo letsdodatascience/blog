@@ -1,0 +1,7 @@
+[submodule "themes/pristine"]
+	path = themes/pristine
+	url = https://github.com/sakibccr/pristine.git
+[submodule "public"]
+	path = public
+	url = https://github.com/letsdodatascience/letsdodatascience.github.io.git
+	branch = master
