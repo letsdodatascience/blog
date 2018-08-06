@@ -1,0 +1,45 @@
+baseURL = "http://letsdodatascience.github.io/"
+languageCode = "en-us"
+title = "Vineet Kumar Singh"
+theme="pristine"
+
+canonifyURLs = true
+enableEmoji = true
+
+[params]
+    portrait = "img/potrait.jpeg"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/posts/"
+  weight = 2
+
+[[menu.projects]]
+  name = "My awesome project"
+  url = "https://myawesomeproject.com"
+  weight = 1
+
+[[menu.projects]]
+  name = "My"
+  url = "https://myawesomeproject.com"
+  weight = 2
+
+[[menu.projects]]
+  name = "ject"
+  url = "https://myawesomeproject.com"
+  weight = 3
+
+[[params.social]]
+    title = "Email"
+    url = "letsdodatascience@gmail.com"
+[[params.social]]
+    title = "Follow @viiitdmj"
+    url = "https://twitter.com/viiitdmj"
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/letsdodatascience"
